@@ -1,3 +1,5 @@
+https://davidzyt.github.io/JS-Games-Series-01.Rock-Paper-Scissors/
+
 # Title: Rock paper scissors lizard Spock
 
 - Repository: `rock-paper-scissors-lizard-spock`
